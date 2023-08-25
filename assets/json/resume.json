@@ -1,73 +1,71 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Le Thong Minh Triet",
+    "label": "AI Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "triet.lecsk20@hcmut.edu.vn",
+    "phone": "(84) 339-276-849",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "I am currently a dedicated undergraduate pursuing a computer science degree at Ho Chi Minh University of Technology, with a keen interest in becoming a proficient deep learning engineer. ",
+    //"location": {
+    //  "address": "2712 Broadway St",
+    //  "postalCode": "CA 94115",
+    //  "city": "Ho Chi Minh",
+    //  "countryCode": "VN",
+    //  "region": "California"
+    //},
+    //"profiles": [
+    //  {
+    //    "network": "Twitter",
+    //    "username": "AlbertEinstein",
+    //    "url": "https://twitter.com/AlbertEinstein"
+    //  }
+    //]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Ho Chi Minh University of Technology",
+      "position": "Student",
+      "startDate": "2020",
+      "endDate": "2024",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+    
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Ho Chi Minh University of Technology",
+      "area": "Computer Sciences",
+      "studyType": "Bachelor of Engineering", 
+      "startDate": "2020",
+      "endDate": "2024",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "University’s Merit-based Scholarship",
+      "date": "06/2021, 12/2021, 06/2022 and 12/2022"
+    },
+    {
+      "title": "TRAVEL & PUBLICATION Scholarship.",
+      "date": "02/2023"
     }
   ],
-  "certificates": [],
+  "certificates": ["Deep Learning Specialization, DeepLearning.AI", "Machine Learning Engineering for Production (MLOps)"],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "language": "English",
+      "language": "Japanese",
       "fluency": "Fluent"
     }
   ],
